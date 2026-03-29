@@ -1,0 +1,32 @@
+# Visual Studio folders
+.vs/
+bin/
+obj/
+
+# Visual Studio user settings
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+# SQLite databases
+*.sqlite
+*.db
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+
+# Generated folders
+ReceivedFiles/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
