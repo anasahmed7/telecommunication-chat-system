@@ -101,7 +101,7 @@ ChatApp
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/telecommunication-chat-system.git
+git clone https://github.com/anasahmed7/telecommunication-chat-system.git
 ```
 
 ### 2️⃣ Open the project
